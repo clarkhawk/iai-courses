@@ -1,0 +1,90 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image: url(wall0.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 20px;
+}
+
+ 
+
+.main-form{
+    background-color: rgba(26, 27, 38, 0.65);
+    backdrop-filter: blur(10px);
+    border-radius: 30px;
+    border: 1px solid rgba(255, 255, 255,);
+    color: antiquewhite;
+    padding: 40px;
+    width: 30%;
+    box-shadow: 25px;
+    max-width: 90;
+    margin: 100px auto;
+
+
+}
+
+.main-form h1{
+    font-size: 1.8rem;
+    text-align: center;
+    color:antiquewhite;
+    margin-bottom: 25px;
+
+
+
+}
+
+label{
+    color: #A9B1D6;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.form-dec input {
+    width: 100%;
+    padding: 12px;
+    margin: 8px 0 20px 0;
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    background-color: rgba(0, 0, 0, 0.3);
+}
+
+header nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 20px;
+    gap: 20px;
+}
+
+.form-dec input:focus {
+    border-color: #7aa2f7;
+}
+
+header nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+

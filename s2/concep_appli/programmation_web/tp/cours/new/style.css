@@ -1,0 +1,80 @@
+:root{
+    --bg: grey;
+    --col1: blue;
+    --col2: green;
+    --col3: brown;
+    --col4: red;
+    --hauteur: 600px;
+    --largeur: 500px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cards{
+    display: flex;
+    align-items: center;
+
+}
+
+.section1{
+    display: flex;
+    align-items: center;
+    width: var(--largeur);
+    height: var(--hauteur);
+    border-radius: 12px;
+    border-color: black;
+}
+
+.section2{
+    /*display: flex;*/
+    /*align-items: center;*/
+    width: var(--largeur);
+    height: var(--hauteur);
+    border-radius: 12px;
+    border-color: black;
+}
+
+#left{
+    background-color: var(--col1);
+    height: var(--hauteur);
+    width: 200px;
+
+
+}
+
+#right{
+    background-color: var(--col2);
+    height: var(--hauteur);
+    width: 400px;
+}
+
+div #top{
+    background-color: var(--col4);
+    width: var(--largeur);
+    height: 100px;
+    float: top;
+}
+
+#left2{
+    background-color: var(--col1);
+    height: 500px;
+    width: 50px;
+    float: left;
+}
+
+#right2{
+    background-color: var(--col3);
+    height: 500px;
+    width: 50px;
+    float: right;
+}
+body{
+    background-color: var(--bg);
+}
+
+.section :hover{
+    border-color: rgb(234, 140, 25);
+}
