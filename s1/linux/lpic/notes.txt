@@ -1,0 +1,11 @@
+ ____________________________________________
+| PRISE DE NOTES POUR LA CERTIF LPI 101      |
+|____________________________________________|
+
+
+
+• Lundi 21 • 07 • 2026
+
+Périphériques de stockage
+    /dev/hd -> IDE
+    /dev/sd -> SATA

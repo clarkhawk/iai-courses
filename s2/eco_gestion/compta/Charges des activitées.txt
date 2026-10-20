@@ -1,0 +1,17 @@
+- Charges des activitées ordinaires (CAO):
+On les retrouve dans la classe 6. Leurs montants se trouvent au débit
+- Charges Hors Activitées Ordinaires (CHAO): Ce sont des activitées
+on les retrouves dans les comptes de la classe 8 accompagné d'un chiffre impairs (81, 83, 85, 87, 89)
+87 et 89 sont des comptes exceptionnels.
+
+
+On les retrouve dans les comptes de la classe 7. Leurs montants sont au crédit.
+
+On les retrouve dans les comptes de la classe 8 accompagné d'un chiffre pairs (82,84,86,88)
+
+
+
+
+
+TAF:
+Identifier les numéros des comptes utiliser dans un tableau

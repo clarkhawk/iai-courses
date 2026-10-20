@@ -1,0 +1,3 @@
+le revenu d'un agent économique en 2024 EST DE 800.000,sa consomation dans la même années est de 600.000 en 2026, sa consomation est de 1200.000.
+1/ Sachant que la propention marginal à consommer est de 0,7, calculer la propention moyenne à consommer en 2024 et la propention moyenne à epargner en 2024
+2/ Calculer le revenu en 2026
