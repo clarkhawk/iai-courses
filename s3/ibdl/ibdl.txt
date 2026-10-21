@@ -1,0 +1,2 @@
+Une donnée est une representation brut d'un état donné d'un fait abstrait. Elle peut être numérique, alphanumérique ou numérique.
+
